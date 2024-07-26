@@ -17,3 +17,13 @@ In addition to the desktop-specific UI in `DesktopHomeScreen`, a corresponding `
 The login and profile management functionalities are implemented in separate Dart files. `login.dart` includes a `LoginScreen` widget that uses `TextFormField` for user input and `ElevatedButton` for submission, while `profile.dart` features a `ProfileScreen` widget with editable profile fields and a save button. Both components utilize standard Flutter widgets to create intuitive and interactive user interfaces.
 
 The `appointment.dart` file handles appointment scheduling through the `AppointmentScreen` widget, incorporating date and time pickers with `showDatePicker` and `showTimePicker`. This allows users to select their preferred appointment time conveniently, ensuring that the booking process is user-friendly and efficient. The integration of these components provides a comprehensive solution for managing user appointments in a Flutter application.
+
+
+
+
+https://github.com/user-attachments/assets/9ded5055-cc6d-48eb-af23-816c0b2819fc
+
+
+https://github.com/user-attachments/assets/5494a9a7-8038-43c2-bb4e-ac4f726c32d9
+
+
